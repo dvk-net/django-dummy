@@ -1,7 +1,7 @@
 # Dummy hello world Django app
 
 # Webapp deploy to www.pythonanywhere.com
-
+# [Video Instruction](https://youtu.be/D-3xTYR1vBc)
 ![img](Djangodeployexample.png)
 1. Visit and register [https://www.pythonanywhere.com/](https://www.pythonanywhere.com/)
 2. Push your project to github
